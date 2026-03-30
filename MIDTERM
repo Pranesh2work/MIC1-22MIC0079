@@ -1,6 +1,6 @@
 public class StudentInfo {
     public static void main(String[] args) {
-        String name = "Hemanathan";
+        String name = "Hemanath";
         String regNo = "22MIC0079";
 
         System.out.println("Student Name: " + name);
