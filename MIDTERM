@@ -1,0 +1,10 @@
+public class StudentInfo {
+    public static void main(String[] args) {
+        String name = "Hemanathan";
+        String regNo = "22MIC0079";
+
+        System.out.println("Student Name: " + name);
+        System.out.println("Register Number: " + regNo);
+        System.out.println("Message: Jenkins Build Successful");
+    }
+}
